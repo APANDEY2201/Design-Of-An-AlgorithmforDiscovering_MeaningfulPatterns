@@ -1,4 +1,4 @@
-# design-of-an-algorithmforDiscovering_MeaningfulPatterns
+# Design_of_an_algorithm_for_Discovering_Meaningful_Patterns
 
 ### Algorithm 1
 > Stepwise execution of the algorithm
