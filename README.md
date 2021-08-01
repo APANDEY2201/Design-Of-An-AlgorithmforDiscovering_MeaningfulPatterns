@@ -1,7 +1,7 @@
 # Design_of_an_algorithm_for_Discovering_Meaningful_Patterns
 
 ### Algorithm 1
-> Stepwise execution of the algorithm
+> Sequential execution of the algorithm
 
 
 - [x] MainTestNegFIN.java is the main file which needs to be executed. The code allows flexibility to choose Rank, 
@@ -13,7 +13,7 @@
 - [x] output.txt, Support.txt is the output of the algorithm. 
 
 ### Algorithm 2
-> Stepwise execution of the algorithm
+> Sequential execution of the algorithm
 
 - [x] Python file : prj_ApplyStats.py inside the folder Team8-statisticalAnalysis_python is the main file which needs to be executed.
      PATH_SUPPORT_FILE(path for the input file - support file/output of Java), PATH_ITEMS_LIST_FILE(path for the input file - frequent itemset/output of Java), PATH_STATS_FILE       (save the path for the output file)
